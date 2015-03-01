@@ -1,0 +1,8 @@
+dragon 
+handee
+s 0.5 0.5 0.5
+r 90 0 0
+cow 
+s 1.0 0.0 0.0
+hand
+r 90 0 0

@@ -1,0 +1,28 @@
+USERMANUAL - Final Project
+
+/***  Project: Mesh Simplification   ***/
+
+/*** Created by : Keerti Sekhar Sahoo and   Xiao Mao***/
+
+
+
+Files
+
+main.c
+UserManual.txt
+Slides
+Finalreport.pdf
+
+Loading the Mesh and Running the code
+
+1. Enter the mesh file location in the code
+
+2. Click the run button to execute the program
+
+Mouse Interactivity
+
+1. Place the mouse pointed within the drawing area and by dragging the mouse will rotate the mesh.
+
+
+
+
