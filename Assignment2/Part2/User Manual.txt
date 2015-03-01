@@ -1,0 +1,9 @@
+User Manual:
+
+Mouse/Key combination:
+
+
+Mouse Left Click     —> For dragging the patch.
+
+Mouse Right button —> To pin point and drag a point to new position.
+
