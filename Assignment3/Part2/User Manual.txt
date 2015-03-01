@@ -1,0 +1,22 @@
+User Manual:
+
+Mouse/Key combination:
+
+Key ‘b’ - for drawing the bounding box.
+
+Key ‘c’ - for clearing the bounding box.
+
+Key ‘p’ - for switching to perspective projection.
+
+Key ‘o’ - for switching to orthographic projection.
+
+Key ‘w’ - for Moving forward.
+
+Key ’s’ - for moving backward.
+
+Key ‘a’ - for moving left.
+
+Key ‘d’ - for moving right.
+
+
+
